@@ -1,6 +1,6 @@
 == README
 
-This app is called - not sure yet - and it is a question and answer service. The goal of this application, is to allow the Questioner to visually organize the options available to them, with which they can solve or address the issue in question. 
+This app is called - not sure yet - and it is a question and answer service. The goal of this application, is to allow the Questioner to visually organize the options available to them, helping them to solve or address the issue in question. 
 
 Each answer to a question is displayed at the end of a "branch" which refers to a category of action available. 
 
